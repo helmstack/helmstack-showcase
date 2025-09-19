@@ -72,7 +72,3 @@ Want to add your own demo?
 📜 License
 
 This repository is licensed under the MIT License. See LICENSE for details.
-
----
-
-Davam edim? Növbəti sənəd **`demos/demo-ai-planning.md`** olacaq. İstəyirsən onu da verim?
